@@ -5,10 +5,10 @@
     "type": "project",
     "homepage": "https://moodle.org",
     "require-dev": {
+        "ext-mbstring": "*",
         "phpunit/phpunit": "6.4.*",
         "phpunit/dbUnit": "3.0.*",
         "moodlehq/behat-extension": "3.35.1",
-        "mikey179/vfsStream": "^1.6",
-        "ext-mbstring": "*"
+        "mikey179/vfsStream": "^1.6"
     }
 }
